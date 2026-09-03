@@ -1,102 +1,70 @@
-<h1 align="center">👋 Halo, Saya <span style="color:#00bfff;">Muhamad Badru Wasih</span></h1><h3 align="center">
-💻 Frontend Developer • UI/UX Enthusiast • Tech Explorer 🇮🇩
-</h3><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhmdbadru23&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile Views" />
+👋 Halo, Saya Muhamad Badru Wasih
+
+<p align="center">
+  <strong>💻 Frontend Developer | 🎨 UI/UX Enthusiast | 🚀 Tech Explorer</strong>
 </p><p align="center">
-  <a href="https://github.com/mhmdbadru23">
-    <img src="https://img.shields.io/github/followers/mhmdbadru23?label=Followers&style=for-the-badge&color=00bfff" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/mhmdbadru23?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mhmdbadru23?label=Stars&style=for-the-badge&color=00bfff" alt="GitHub Stars" />
-  </a>
+  🇮🇩 Indonesia
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mhmdbadru23botz&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile Views" />
 </p>---
 
-🚀 Tentang Saya
+👨‍💻 Tentang Saya
 
-Halo! Saya Muhamad Badru Wasih, seorang Frontend Developer dari Indonesia yang memiliki ketertarikan pada pengembangan website, desain antarmuka, dan teknologi modern.
+Halo! Saya Muhamad Badru Wasih, seorang Frontend Developer yang memiliki ketertarikan pada pengembangan website, desain antarmuka, dan teknologi modern.
 
-Saya senang membangun website yang tidak hanya berfungsi dengan baik, tetapi juga memiliki tampilan yang modern, responsif, dan nyaman digunakan.
+Saya senang membuat website yang modern, responsif, menarik, dan mudah digunakan.
 
-- 👨‍💻 Semua project saya tersedia di "muhamadbadruwasih.store" (https://www.muhamadbadruwasih.store)
-- 📝 Saya juga berbagi artikel seputar coding, desain, dan teknologi
-- 📫 Email: muhamadbadruwasih8@gmail.com
-- 🌱 Saat ini sedang mendalami React.js, Next.js, dan TypeScript
-- 🎨 Tertarik dengan UI/UX Design dan pengembangan web modern
-- ☕ Suka ngoding sambil ngopi dan mengeksplorasi teknologi baru
-- ⚡ Motto: Build. Create. Learn. Repeat.
-
----
-
-🧑‍💻 Fokus Saya
-
-Frontend Development    ███████████████████░░   90%
-UI/UX Design            █████████████████░░░░   85%
-Responsive Web Design   ███████████████████░░   90%
-JavaScript              █████████████████░░░░   85%
-React.js                ████████████████░░░░░   80%
-Next.js                 ██████████████░░░░░░░   70%
-TypeScript              █████████████░░░░░░░░   65%
+- 💻 Fokus pada Frontend Development
+- 🎨 Tertarik pada UI/UX Design
+- 🌱 Sedang mempelajari React.js, Next.js, dan TypeScript
+- 🚀 Senang membuat dan mengembangkan berbagai project
+- ☕ Suka ngoding sambil ngopi
+- 🔎 Senang mengeksplorasi teknologi baru
+- 🇮🇩 Berbasis di Indonesia
 
 ---
 
-🛠️ Bahasa & Tools
+🛠️ Tech Stack
 
-💻 Frontend
+💻 Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+</p>⚛️ Framework & Library
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
 </p>🎨 Design
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="45" height="45"/>
-</p>🔧 Development Tools
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45" alt="Adobe Photoshop"/>
+</p>🔧 Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-</p>---
-
-🌐 Terhubung dengan Saya
-
-<p align="left">
-  <a href="https://linkedin.com/in/mhmdbadru23">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/mhmdbadru23">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://instagram.com/aivisualsgenerator">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/c/mhmdbadru23">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://facebook.com/mhmdbadru23">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>---
 
 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mhmdbadru23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Mhmdbadru23botz&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
   />
 </p><p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdbadru23&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdbadru23botz&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p><p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdbadru23&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Mhmdbadru23botz&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>---
@@ -105,55 +73,92 @@ TypeScript              █████████████░░░░░�
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=mhmdbadru23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=Mhmdbadru23botz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
     alt="GitHub Trophies"
   />
 </p>---
 
-📈 Contribution Graph
+📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mhmdbadru23&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mhmdbadru23botz&theme=tokyo-night&hide_border=true"
     alt="GitHub Activity Graph"
   />
 </p>---
 
-📌 Project Terbaru
+🌐 Website
 
 <p align="center">
-  <a href="https://github.com/mhmdbadru23?tab=repositories">
+  <a href="https://muhamadbadruwasih.store">
     <img
-      src="https://img.shields.io/badge/🔎_Lihat_Semua_Project-00bfff?style=for-the-badge"
-      alt="View Projects"
+      src="https://img.shields.io/badge/🌐_Website-muhamadbadruwasih.store-00BFFF?style=for-the-badge"
+      alt="Website"
     />
   </a>
 </p>---
 
-☕ Dukung Saya
+📱 Hubungi Saya
 
-Jika project atau tulisan saya bermanfaat, kamu bisa mendukung saya melalui:
+<p align="center"><a href="https://t.me/Mhmdbadru23">
+  <img
+    src="https://img.shields.io/badge/Telegram-Mhmdbadru23-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="Telegram"
+  />
+</a><a href="https://github.com/Mhmdbadru23botz">
+  <img
+    src="https://img.shields.io/badge/GitHub-Mhmdbadru23botz-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a><a href="https://wa.me/6282258041628">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-082258041628-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="WhatsApp"
+  />
+</a></p>---
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/Mhmdbadru23">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="45"
-      width="170"
-      alt="Buy Me A Coffee"
-    />
-  </a>  <a href="https://ko-fi.com/Mhmdbadru23">
-    <img
-      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
-      height="45"
-      width="170"
-      alt="Ko-fi"
-    />
-  </a>
-</p>---
+📫 Kontak
 
-<h3 align="center">
-  ✨ "Code, Create, and Keep Learning!" ✨
-</h3><p align="center">
-  <i>Thanks for visiting my GitHub profile! 🚀</i>
+Platform| Kontak
+📱 Telegram| "@Mhmdbadru23" (https://t.me/Mhmdbadru23)
+🐙 GitHub| "@Mhmdbadru23botz" (https://github.com/Mhmdbadru23botz)
+💬 WhatsApp| "082258041628" (https://wa.me/6282258041628)
+🌐 Website| "muhamadbadruwasih.store" (https://muhamadbadruwasih.store)
+
+---
+
+☕ Support Me
+
+Jika project saya bermanfaat atau kamu ingin mendukung perkembangan saya sebagai developer, kamu bisa memberikan dukungan melalui:
+
+<p align="center"><a href="https://www.buymeacoffee.com/Mhmdbadru23">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    width="170"
+    height="45"
+    alt="Buy Me A Coffee"
+  />
+</a><a href="https://ko-fi.com/Mhmdbadru23">
+  <img
+    src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+    width="170"
+    height="45"
+    alt="Ko-fi"
+  />
+</a></p>---
+
+🚀 Currently Learning
+
+React.js       ████████████████░░░░
+Next.js        ██████████████░░░░░░
+TypeScript     █████████████░░░░░░░
+UI/UX Design   ████████████████░░░░
+Web Development██████████████████░░
+
+---
+
+<p align="center">
+  <strong>✨ Code • Create • Learn • Repeat ✨</strong>
+</p><p align="center">
+  Thanks for visiting my GitHub profile! 👋
 </p>
